@@ -16,25 +16,22 @@ It can be use like a Book Library. Where student can Issue book and Return book 
 Clone/Download Zip
 ```
 ```
-click open .sln file
+Go to eclipse.
 ```
-```
-Go to Server Explorer
-```
-```
-Right Click ERPDB.mdf and go to Properties
+``` 
+Open this project.
 ```
 ```
 Copy connection String
 ```
 ```
-Open DatabaseConnection.cs on ERP_Repository
+Open javaConnection.cs on src/
 ```
 ```
 Edit ,and Paste the connection String And Save
 ```
 ```
-For demo data use Id : A01 and Password : abcde 
+For demo data use Id : niloy and Password : 123456 
 ```
 
 
@@ -43,19 +40,6 @@ For demo data use Id : A01 and Password : abcde
 1. Student
 1. System Admin
 
-
-### coding style 
-
-Camel Case Class name
-
-```
-DatabaseConnection.cs
-```
-Pascal Case Variable name
-
-```
-private string homeTabCounter
-```
 
 ## Built With
 
