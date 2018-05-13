@@ -22,7 +22,7 @@ Go to eclipse.
 Open this project.
 ```
 ```
-Copy connection String
+Copy the current directory.
 ```
 ```
 Open javaConnection.cs on src/
