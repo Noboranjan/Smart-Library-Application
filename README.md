@@ -1,9 +1,3 @@
-# Smart-Library-Application
-using sqlite database.
-using Jtatto for better graphics.
-comfortable UI.
-Best application for beginners.
-
 # Smart Library Application
 It can be use like a Book Library. Where student can Issue book and Return book easily. They can see available book list and student list.It is very easy application and functionalities are easily implemented so we chose this project. In this application, Student can easily See the available books and Issue or Return books. This project will be useful to the people who are interested in reading books.
 
