@@ -25,10 +25,10 @@ Open this project.
 Copy the current directory.
 ```
 ```
-Open javaConnection.cs on src/
+Open javaConnect.java on src.
 ```
 ```
-Edit ,and Paste the connection String And Save
+Edit ,and Paste the connection String And Save.
 ```
 ```
 For demo data use Id : niloy and Password : 123456 
