@@ -31,7 +31,7 @@ Open javaConnect.java on src.
 Edit ,and Paste the connection String And Save.
 ```
 ```
-For demo data use Id : niloy and Password : 123456 
+For demo data use Username : niloy and Password : 123456 
 ```
 
 
