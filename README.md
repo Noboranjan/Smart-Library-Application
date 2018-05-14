@@ -1,5 +1,5 @@
 # Smart Library Application
-It can be use like a Book Library. Where student can Issue book and Return book easily.It is very easy application and functionalities are easily implemented so we chose this project. In this application, Student can easily See the available books and Issue or Return books. This project will be useful to the people who are interested in reading books.
+It can be use like a Book Library. Where student can Issue book and Return book easily.It is very easy application and functionalities are easily implemented. In this application, Student can easily See the available books and Issue or Return books. This project will be useful to the people who are interested in reading books.
 
 ## Getting Started
 
